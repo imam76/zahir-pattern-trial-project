@@ -1,2 +1,2 @@
-# zahirpattern
-zahir doc
+# zahir-pattern
+my first zahir-doc
